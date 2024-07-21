@@ -32,6 +32,7 @@ The dataset was a CSV file with the following columns:
 - Use the filters and parameters to customize the views.
 
 # Snapshot of Dashboard (Tableau Public)
+<img width="827" alt="Snapshot" src="https://github.com/user-attachments/assets/37b44446-8bb4-4a37-ab7b-b411900db696">
 
 
 ## Conclusion
