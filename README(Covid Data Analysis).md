@@ -29,5 +29,6 @@
 
 
 ## SAMPLE VISUALIZATION
+<img width="803" alt="Snapshot" src="https://github.com/user-attachments/assets/684e0e95-0baf-48fd-a68a-19fb816da1db">
 
 
