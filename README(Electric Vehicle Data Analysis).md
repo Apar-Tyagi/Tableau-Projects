@@ -1,6 +1,5 @@
 # EV Analysis Dashboard
 
-
 ## Overview
 This project entails creating an interactive dashboard in Tableau named "EV Analysis." The dashboard visualizes various aspects of electric vehicle (EV) data, including vehicle distribution, ownership, and type. The dataset used in this project was a CSV file containing information about EVs such as Id, location details, model year, make, model, electric range, and more.
 
